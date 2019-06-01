@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #include <stdio.h>
 #include "vector.c"
 #include "tree.c"
